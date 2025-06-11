@@ -18,7 +18,7 @@ Fitness Tracker Royale Fitness
 ### Admin Management
 - **admin Dashboards**:
 - Admin can  add and modify the blog  .
-- - Admin can  add and modify the Faq (frequently asked question)  .
+- Admin can  add and modify the Faq (frequently asked question)  .
 - Admin can read the feedback form user .
 - Admin can delete and change status of user registered  . 
 
