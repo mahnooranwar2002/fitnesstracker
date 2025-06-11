@@ -14,4 +14,12 @@ Fitness Tracker Royale Fitness
 - **Personalized Dashboards**: Develop personalized dashboards that summarize workouts, nutrition, and overall progress for each user.
 - **Notification Center**: Create a notification center for activity alerts, reminders, and system messages to keep users informed and engaged.
 
+
+### Admin Management
+- **admin Dashboards**:
+- Admin can  add and modify the blog  .
+- - Admin can  add and modify the Faq (frequently asked question)  .
+- Admin can read the feedback form user .
+- Admin can delete and change status of user registered  . 
+
 ---
